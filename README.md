@@ -1,13 +1,13 @@
 ## Hello! I'm Guilherme G Almada (GGA) <br>Computer engineering student, fascinated by technology and innovation.<br>
 
-[![Blog](https://img.shields.io/website?label=Myportfolio&style=for-the-badge&url=https://garcesgga.github.io/portfolio/)](https://garcesgga.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/website?label=Myportfolio&style=for-the-badge&url=https://garcesgga.github.io/portfolio/)](https://garcesgga.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gga_guilherme/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggaguilherme/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/guilhermegga)
 
 
 ## Work and study
 <div style="display: inline_block">
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,6 +18,10 @@
  
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
+## Enthusiast
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
   
 </div><br/>
 
