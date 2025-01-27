@@ -10,4 +10,6 @@ Computer engineering student, fascinated by technology and innovation.<br>
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+![GGA GitHub Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username={garcesgga}&theme=blue-green)
+
 
