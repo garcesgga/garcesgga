@@ -1,5 +1,5 @@
 ## Hello! I'm Guilherme G Almada (GGA)
-## Computer engineering student, fascinated by technology and innovation.
+Computer engineering student, fascinated by technology and innovation.
 [![Blog](https://img.shields.io/website?label=Myportfolio&style=for-the-badge&url=https://garcesgga.github.io/portfolio/)](https://garcesgga.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gga_guilherme/)
 
