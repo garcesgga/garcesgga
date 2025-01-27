@@ -2,6 +2,8 @@
 Computer engineering student, fascinated by technology and innovation.<br>
 [![Blog](https://img.shields.io/website?label=Myportfolio&style=for-the-badge&url=https://garcesgga.github.io/portfolio/)](https://garcesgga.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gga_guilherme/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggaguilherme/)
+
 
 ## Work and study
 <div style="display: inline_block">
