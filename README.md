@@ -24,8 +24,6 @@
   
 </div><br/>
 
-![GGA GitHub Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&theme=blue-green)
-
 
 
 
