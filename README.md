@@ -22,5 +22,5 @@
   
 </div><br/>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgg&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&layout=compact&theme=dracula)
 
