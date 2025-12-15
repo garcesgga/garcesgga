@@ -21,11 +21,12 @@
   <img align="center" alt="lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
   
 </div><br/>
-My last project:<br/>
+
+## My last project:<br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garcesgga&repo=ml_industrial-sensors-time-series_notebook)](https://github.com/garcesgga/ml_industrial-sensors-time-series_notebook)<br/>
 
-About me:<br/>
+## About me:<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&layout=donut-vertical)](https://github.com/garcesgga/github-readme-stats)
 [![garcesgga's GitHub stats](https://github-readme-stats.vercel.app/api?username=garcesgga)](https://github.com/garcesgga/github-readme-stats)
 
