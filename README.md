@@ -1,4 +1,4 @@
-## Hello! I'm Guilherme G Almada (GGA) <br>Computer engineering student, fascinated by Science, Technology, Engineering, and Mathematics (STEM) and innovation.<br>
+## Hello! I'm Guilherme G Almada (GGA) <br>Computer engineering student, fascinated by Inovvation, Science, Technology, Engineering, and Mathematics (STEM).<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggaguilherme/)
 
 
