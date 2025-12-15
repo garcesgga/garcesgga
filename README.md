@@ -22,6 +22,7 @@
   
 </div><br/>
 My last project:<br/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garcesgga&repo=ml_industrial-sensors-time-series_notebook)](https://github.com/garcesgga/ml_industrial-sensors-time-series_notebook)<br/>
 
 About me:<br/>
