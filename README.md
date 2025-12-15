@@ -22,6 +22,6 @@
   
 </div><br/>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garcesgga&repo=ml_industrial-sensors-time-series_notebook)](https://github.com/garcesgga/ml_industrial-sensors-time-series_notebook)
 [![garcesgga's GitHub stats](https://github-readme-stats.vercel.app/api?username=garcesgga)](https://github.com/garcesgga/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&layout=donut-vertical)](https://github.com/garcesgga/github-readme-stats)
