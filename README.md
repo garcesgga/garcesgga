@@ -23,3 +23,4 @@
 </div><br/>
 
 [![garcesgga's GitHub stats](https://github-readme-stats.vercel.app/api?username=garcesgga)](https://github.com/garcesgga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&layout=donut-vertical)](https://github.com/garcesgga/github-readme-stats)
