@@ -24,7 +24,7 @@
 
 ## My last project:<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garcesgga&repo=ml_industrial-sensors-time-series_notebook)](https://github.com/garcesgga/ml_industrial-sensors-time-series_notebook)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garcesgga&repo=ml_industrial_sensors_anomaly_detection)](https://github.com/garcesgga/ml_industrial_sensors_anomaly_detection)<br/>
 
 ## About me:<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcesgga&layout=donut)](https://github.com/garcesgga/github-readme-stats)
