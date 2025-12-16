@@ -13,6 +13,8 @@
   &nbsp; &nbsp;  
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
   &nbsp; &nbsp;<br>
+  <a href="https://www.aws.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+  &nbsp; &nbsp;<br>
 
 
 ## Enthusiast
